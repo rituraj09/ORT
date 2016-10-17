@@ -1,0 +1,9 @@
+[23-Sep-2016 06:23:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/onerocgo/public_html/application/controllers/Articles.php on line 23
+[23-Sep-2016 06:24:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/onerocgo/public_html/application/controllers/Articles.php on line 23
+[28-Sep-2016 19:26:17 Etc/GMT] PHP Fatal error:  Call to a member function groupBooking() on a non-object in /home/onerocgo/public_html/application/controllers/Flight_booking.php on line 83
+[28-Sep-2016 19:28:41 Etc/GMT] PHP Fatal error:  Call to a member function groupBooking() on a non-object in /home/onerocgo/public_html/application/controllers/Flight_booking.php on line 83
+[28-Sep-2016 19:29:01 Etc/GMT] PHP Fatal error:  Call to a member function groupBooking() on a non-object in /home/onerocgo/public_html/application/controllers/Flight_booking.php on line 83
+[28-Sep-2016 19:34:21 Etc/GMT] PHP Fatal error:  Call to a member function groupBooking() on a non-object in /home/onerocgo/public_html/application/controllers/Flight_booking.php on line 83
+[28-Sep-2016 19:45:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/onerocgo/public_html/application/controllers/Flight_booking.php on line 76
+[28-Sep-2016 20:09:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/onerocgo/public_html/application/controllers/Flight_booking.php on line 94
+[28-Sep-2016 20:10:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/onerocgo/public_html/application/controllers/Flight_booking.php on line 94
